@@ -1,5 +1,3 @@
-# Live link https://bulutme.github.io/storade-example/
-
 
 # Getting Started with Create React App
 
